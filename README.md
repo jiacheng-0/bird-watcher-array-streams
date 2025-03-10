@@ -1,6 +1,6 @@
 # bird-watcher 
 
-![[Pastedimage20250310142523.png]]
+![image](Pastedimage20250310142523.png)
 
 Just a short practice on streams.
 
